@@ -5,7 +5,7 @@ print(integer)
 
 random_float = random.random()  # returns a random floating point value between 0 and 1
 
-# To modify the range of the .random operator, multiply it with an integer
+# To modify the range of the .random operator, multiply it(resulting number from the operation) with an integer
 
 rand_float = random_float * 4
 
